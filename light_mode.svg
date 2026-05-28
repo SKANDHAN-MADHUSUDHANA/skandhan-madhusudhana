@@ -25,22 +25,22 @@ text, tspan {white-space: pre;}
 </svg>
 
 <!-- Right column: Grant-style neofetch stats -->
-<text x="400" y="30" fill="#24292f" font-size="14">
-<tspan x="400" y="30">Skandhan-Madhusudhana</tspan> -——————————————————————————————————————————-—-
-<tspan x="400" y="55" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">Seattle, WA</tspan>
-<tspan x="400" y="80" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">MS CS, Northeastern (Khoury)</tspan>
-<tspan x="400" y="105" class="cc">. </tspan><tspan class="key">Incoming</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">SDE Intern @ Amazon</tspan>
-<tspan x="400" y="130" class="cc">. </tspan><tspan class="key">Fuel</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">oat-milk lattes &amp; curiosity</tspan>
-<tspan x="400" y="180">- Tech Stack</tspan> -———————————————————————————————————————————————————-—-
-<tspan x="400" y="205" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Languages</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Java, C++, Python, Javascript</tspan>
-<tspan x="400" y="230" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Spring Boot, FastAPI, NodeJS, JUnit</tspan>
-<tspan x="400" y="255" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Frontend</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">React, Angular, HTML, TailwindCSS</tspan>
-<tspan x="400" y="280" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">AI</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">TensorFlow, PyTorch, Scikit-learn</tspan>
-<tspan x="400" y="305" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">DevOps</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Ansible, SonarQube, GitHub Actions</tspan>
-<tspan x="400" y="355">- Contact</tspan> -——————————————————————————————————————————————————————-—-
-<tspan x="400" y="380" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">madhusudhana.s@northeastern.edu</tspan>
-<tspan x="400" y="405" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">skandhan-madhusudhana</tspan>
-<tspan x="400" y="430" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">SKANDHAN-MADHUSUDHANA</tspan>
+<text x="400" y="70" fill="#24292f" font-size="14">
+<tspan x="400" y="70">Skandhan-Madhusudhana</tspan> -——————————————————————————————————————————-—-
+<tspan x="400" y="120" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">Seattle, WA</tspan>
+<tspan x="400" y="145" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">MS CS, Northeastern (Khoury)</tspan>
+<tspan x="400" y="95" class="cc">. </tspan><tspan class="key">Incoming</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">SDE Intern @ Amazon</tspan>
+<tspan x="400" y="170" class="cc">. </tspan><tspan class="key">Fuel</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">oat-milk lattes &amp; curiosity</tspan>
+<tspan x="400" y="220">- Tech Stack</tspan> -———————————————————————————————————————————————————-—-
+<tspan x="400" y="245" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Languages</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Java, C++, Python, Javascript</tspan>
+<tspan x="400" y="270" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Spring Boot, FastAPI, NodeJS, JUnit</tspan>
+<tspan x="400" y="295" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Frontend</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">React, Angular, HTML, TailwindCSS</tspan>
+<tspan x="400" y="320" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">AI</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">TensorFlow, PyTorch, Scikit-learn</tspan>
+<tspan x="400" y="345" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">DevOps</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Ansible, SonarQube, GitHub Actions</tspan>
+<tspan x="400" y="395">- Contact</tspan> -——————————————————————————————————————————————————————-—-
+<tspan x="400" y="420" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">madhusudhana.s@northeastern.edu</tspan>
+<tspan x="400" y="445" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">skandhan-madhusudhana</tspan>
+<tspan x="400" y="470" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">SKANDHAN-MADHUSUDHANA</tspan>
 </text>
 
 </svg>

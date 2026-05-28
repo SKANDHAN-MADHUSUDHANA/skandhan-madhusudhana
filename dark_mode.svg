@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace" width="985px" height="530px" font-size="16px">
+<style>
+  .header  { fill: #c9d1d9; font-weight: bold; }
+  .key     { fill: #ffa657; font-weight: bold; }
+  .value   { fill: #79c0ff; }
+  .comment { fill: #8b949e; }
+  .accent  { fill: #7ee787; }
+  .art     { fill: #8b949e; }
+  .label   { fill: #c9d1d9; font-weight: bold; }
+  text, tspan { white-space: pre; }
+</style>
+<rect width="985" height="530" fill="#0d1117" rx="15"/>
+
+<!-- ASCII art: isometric cube + label -->
+<text class="art" font-size="18">
+  <tspan x="80"  y="130">           ┌──────┐</tspan>
+  <tspan x="80"  y="152">          ╱      ╱│</tspan>
+  <tspan x="80"  y="174">         ╱      ╱ │</tspan>
+  <tspan x="80"  y="196">        ┌──────┐  │</tspan>
+  <tspan x="80"  y="218">        │      │  │</tspan>
+  <tspan x="80"  y="240">        │      │ ╱</tspan>
+  <tspan x="80"  y="262">        │      │╱</tspan>
+  <tspan x="80"  y="284">        └──────┘</tspan>
+</text>
+<text class="label" font-size="20">
+  <tspan x="120" y="340">SKANDHAN</tspan>
+</text>
+<text class="comment" font-size="14">
+  <tspan x="115" y="362">Seattle · Amazon-bound</tspan>
+</text>
+
+<!-- Neofetch-style stats (right column) -->
+<text>
+  <tspan x="400" y="60"  class="header">skandhan@seattle</tspan>
+  <tspan x="400" y="82"  class="comment">─────────────────────────────────────────────────</tspan>
+  <tspan x="400" y="124" class="key">OS        </tspan><tspan class="comment">: </tspan><tspan class="value">macOS · zsh</tspan>
+  <tspan x="400" y="146" class="key">Location  </tspan><tspan class="comment">: </tspan><tspan class="value">Seattle, WA</tspan>
+  <tspan x="400" y="168" class="key">Editor    </tspan><tspan class="comment">: </tspan><tspan class="value">VS Code</tspan>
+  <tspan x="400" y="210" class="key">Education </tspan><tspan class="comment">: </tspan><tspan class="value">MS CS · Northeastern (Khoury)</tspan>
+  <tspan x="400" y="232" class="key">Current   </tspan><tspan class="comment">: </tspan><tspan class="value">Associate SWE · Light &amp; Wonder</tspan>
+  <tspan x="400" y="254" class="key">Incoming  </tspan><tspan class="comment">: </tspan><tspan class="value">SDE Intern · Amazon</tspan>
+  <tspan x="400" y="296" class="key">Languages </tspan><tspan class="comment">: </tspan><tspan class="value">Java, Python, TypeScript, SQL</tspan>
+  <tspan x="400" y="318" class="key">Backend   </tspan><tspan class="comment">: </tspan><tspan class="value">Spring Boot, FastAPI, Protobuf</tspan>
+  <tspan x="400" y="340" class="key">Frontend  </tspan><tspan class="comment">: </tspan><tspan class="value">React, TypeScript</tspan>
+  <tspan x="400" y="362" class="key">AI / Data </tspan><tspan class="comment">: </tspan><tspan class="value">LangChain, Pinecone, RAG</tspan>
+  <tspan x="400" y="384" class="key">DevOps    </tspan><tspan class="comment">: </tspan><tspan class="value">Ansible, SonarQube, GitHub Actions</tspan>
+  <tspan x="400" y="426" class="key">Coffee    </tspan><tspan class="comment">: </tspan><tspan class="value">████████████░ 99%</tspan>
+  <tspan x="400" y="448" class="key">Status    </tspan><tspan class="comment">: </tspan><tspan class="accent">shipping ✦</tspan>
+</text>
+
+<!-- Color palette (neofetch-style) -->
+<g transform="translate(400, 472)">
+  <rect width="22" height="22" rx="3" fill="#c9d1d9"/>
+  <rect x="26"  width="22" height="22" rx="3" fill="#ff7b72"/>
+  <rect x="52"  width="22" height="22" rx="3" fill="#7ee787"/>
+  <rect x="78"  width="22" height="22" rx="3" fill="#ffa657"/>
+  <rect x="104" width="22" height="22" rx="3" fill="#79c0ff"/>
+  <rect x="130" width="22" height="22" rx="3" fill="#d2a8ff"/>
+  <rect x="156" width="22" height="22" rx="3" fill="#56d4dd"/>
+  <rect x="182" width="22" height="22" rx="3" fill="#8b949e"/>
+</g>
+
+</svg>
